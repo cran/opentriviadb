@@ -1,0 +1,13 @@
+3dbb13b72c67841465eb3f791a59deb3 *DESCRIPTION
+d31777a148c05b2e3340c2885112b5c3 *NAMESPACE
+ac5cafb9d6e11e8d95aebe05246f69a2 *R/get_categories.R
+7a8fdea47d3d79435a242389c4974033 *R/get_questions.R
+e0ef681901465d24f47f9139cb2c086a *R/opentriviadb-package.R
+e694833f0154bd68e5052d8eb1f2797c *R/parse_data.R
+71557eeead2be00c63f90db20aa7286f *R/parse_trivia_df.R
+db30967f81c38e178cfb2930c5bf307c *README.md
+54f3606cd1e25d2d7289d96bb90db5dd *man/get_categories.Rd
+69f8997f50bfed3936dd647bed26c358 *man/get_questions.Rd
+a64c6a9a5a3ae80e8860448e296b4742 *man/opentriviadb-package.Rd
+7046de317d3d6fcdd9339f9085c61742 *tests/testthat.R
+75dc83c78ee94ff5b4daf8d0de79cbda *tests/testthat/test-get-questions-helpers.R
